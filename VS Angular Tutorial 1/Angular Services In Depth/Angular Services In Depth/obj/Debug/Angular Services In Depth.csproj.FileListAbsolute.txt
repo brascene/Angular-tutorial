@@ -1,0 +1,33 @@
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\ApplicationInsights.config
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\csc.exe
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\vbc.exe
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\VBCSCompiler.exe
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Angular Services In Depth.dll.config
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Angular Services In Depth.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Angular Services In Depth.pdb
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.Web.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.Web.xml
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\obj\Debug\Angular Services In Depth.csprojResolveAssemblyReference.cache
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\obj\Debug\Angular Services In Depth.dll
+C:\Users\dino\Documents\Developer Practice\AngularJS\VS tutorial on Angular\Angular Services In Depth\Angular Services In Depth\obj\Debug\Angular Services In Depth.pdb

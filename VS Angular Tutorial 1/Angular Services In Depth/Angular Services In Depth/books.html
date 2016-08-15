@@ -1,0 +1,29 @@
+﻿<div>
+    Summary Data
+    <ul>
+        <li>{{books.summaryData.bookCount}} - Books</li>
+        <li>{{books.summaryData.readerCount}} - Readers</li>
+        <li>{{books.summaryData.grandTotalMinutes}} - Total minutes Read</li>
+    </ul>
+</div>
+
+ All books
+<ul>
+    <li ng-repeat="book in books.allBooks">
+        Naslov: {{book.title}} , Autor: {{book.author}} -- 
+        <a href="#/EditBook/{{book.book_id}}">Edit</a> 
+        <a ng-click="book.deleteBook(book.book_id)" href="">Delete this book</a>
+    </li>
+</ul>
+<a href="#/AddBook">Add new book</a> <br>
+<a href="#/EditBook/{{books.favouriteBook.book_id}}">Open last edited book</a>
+<ul>
+    All readers
+    <li ng-repeat="reader in books.allReaders">
+        Naslov: {{reader.name}} , badge: {{books.getBadge(reader.totalMinutesRead)}}
+    </li>
+</ul>
+<h3>Current favourite book</h3>
+<div>
+    <h1>{{books.favouriteBook.title}}</h1>
+</div>
